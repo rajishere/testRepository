@@ -5,7 +5,7 @@
 	{
 		public function DocumentClass
 		{
- 
+ 			trace("hi");
 		}
 	}
 }
