@@ -1,4 +1,4 @@
-﻿package
+package
 {
 	public class Goodbye
 	{
@@ -10,6 +10,7 @@
 		public function sayGoodbye():void
 		{
 			trace( "Goodbye" );
+			trace("another Goodbye");
 		}
 	}
 }
